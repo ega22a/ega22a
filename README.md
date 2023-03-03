@@ -19,7 +19,7 @@ And let me tell you, we take learning seriously at our college. We don't just te
 
 But don't worry, it's not all work and no play at our college. We like to have fun too! We organize coding competitions, hackathons, and other fun events to keep our students engaged and motivated.
 
-So, if you want to become a coding superstar, come join us at the Nizhnetagilsky College of Trade and Economics. We'll give you the knowledge and skills you need to conquer the world of programming and have a blast while doing it!
+So, if you want to become a coding superstar, come join us at the Nihny Tagil College of Trade and Economics. We'll give you the knowledge and skills you need to conquer the world of programming and have a blast while doing it!
 
 # 🫵 About YOU!
 But enough about me, let's talk about you. Do you want to learn how to program well, think outside the box, and look for an automated approach to everything? Then your way to our college!
