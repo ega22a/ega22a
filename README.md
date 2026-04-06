@@ -47,7 +47,7 @@ My activities span a broad range of digital transformation, information systems 
 - Creating interactive diagrams, presentations, and visual materials for educational courses to improve student engagement.
 - Optimizing database performance, implementing CI/CD practices, and configuring Linux- and Docker-based infrastructure.
 - Developing and maintaining Moodle-based educational solutions, including theme customization, plugin development, and external service integrations.
-- Organizing and judging city-level student professional competitions, including «Proffesionals» (ex. «WorldSkills Russia») and the Abilimpics regional qualification rounds.
+- Organizing and judging city-level student professional competitions, including «Professionals» (ex. «WorldSkills Russia») and the Abilimpics regional qualification rounds.
 - Developing competition tasks and evaluation criteria for web development and software testing tracks.
 
 ## Contact
