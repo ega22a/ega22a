@@ -1,74 +1,59 @@
-# Егор Денисович Репьев
+# Repiev George Denisovitch (in Russian: Репьев Егор Денисович)
 
-**Full Stack Web Developer | Преподаватель**
+Head of the Department of Information Security and Digital Innovation & Lecturer at [Nizhny Tagil College of Trade and Economics (NTCTE)](https://nttek.ru/page/repev-egor-denisovic-143). Full-stack web developer, DevOps engineer, mentor, and digital solutions integrator.
 
-Привет! Я Егор (для студентов — Егор Денисович), занимаюсь веб-разработкой и преподаю в [Нижнетагильском торгово-экономическом колледже](https://nttek.ru/). Стараюсь совмещать практический опыт в разработке с преподавательской деятельностью, чтобы готовить студентов к реальной работе в IT.
+[![GitHub](https://img.shields.io/badge/GitHub-ega22a-181717?style=flat&logo=github)](https://github.com/ega22a) [![Telegram](https://img.shields.io/badge/Telegram-@ega22a-2CA5E0?style=flat&logo=telegram)](https://ega22a.t.me) [![Website](https://img.shields.io/badge/Website-repiev.space-0A0A0A?style=flat&logo=google-chrome)](https://repiev.space)
 
----
+## About Me
 
-## Технологический стек
+I am a lecturer and Head of the Department of Information Security and Digital Innovation at Nizhny Tagil College of Trade and Economics (NTCTE), Sverdlovsk Oblast, Russia.
 
-### Backend
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+My work focuses on developing and deploying digital solutions in educational environments, designing and maintaining information systems, and building sustainable IT infrastructure. I have hands-on experience in web application architecture, DevOps practices, process automation, and third-party service integration.
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+In my professional practice, I:
 
----
+- lead digital transformation projects for educational programs and curricula;
+- develop and maintain information systems built on Laravel, Svelte, SQL, and related technologies;
+- implement CI/CD pipelines, automated deployment workflows, and infrastructure monitoring;
+- oversee the adoption of Moodle and other LMS platforms, including custom plugin development and external integrations;
+- manage and evolve the college's unified identity and access infrastructure: FreeIPA (multi-master), Keycloak SSO, and physical access control system (СКУД) synchronization via custom LDAP attributes;
+- lead the institution's participation in and transition to the Sverdlovsk Region Unified Digital Space (GIS SO ETZP), developed by [TANDEM IS](https://tandemservice.ru/);
+- prepare students for regional and national professional competitions (Abilimpics, Profi-Start, Professionalitet);
+- coordinate institutional IT architecture planning, including inter-college mergers and infrastructure consolidation.
 
-## О моей работе
+Open to collaboration, knowledge sharing, and joint projects in IT and education.
 
-### Разработка
+## Tech Stack
 
-Специализируюсь на full-stack разработке веб-приложений. В backend работаю с PHP и Laravel, для баз данных использую SQL. На frontend создаю интерфейсы с помощью HTML, CSS и JavaScript, применяя современные фреймворки — Next.js, Nuxt.js и Svelte. Люблю создавать продуманные и масштабируемые решения.
+<img src="https://skillicons.dev/icons?i=php,laravel,js,svelte,html,css,postgres,mysql,docker,bash,linux,git,github" alt="Tech Stack">
 
-### Преподавание
+- **Backend**: Laravel, PHP, SQL, REST, Eloquent ORM
+- **Frontend**: Svelte, JavaScript, HTML5, CSS3, responsive design
+- **DevOps**: Docker, Bash, GitHub Actions, Linux, CI/CD
+- **Identity & Access**: FreeIPA, Keycloak (SSO/OIDC), SSSD, LDAP
+- **Integrations**: Telegram Bots, YouGile, Max, Moodle API
+- **Databases**: MySQL, SQLite, indexing, query optimization, migrations
+- **Education**: Moodle, interactive courses, digital transformation
 
-В колледже веду несколько дисциплин, связанных с IT:
+## Projects & Professional Interests
 
-**Операционные системы** — рассказываю студентам про Windows и Linux, учу основам администрирования и работе с командной строкой.
+![Laravel](https://img.shields.io/badge/Laravel-E74430?style=flat&logo=laravel&logoColor=white) ![Moodle](https://img.shields.io/badge/Moodle-F98012?style=flat&logo=moodle&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-A0A0A0?style=flat) ![FSM](https://img.shields.io/badge/FSM-0057B7?style=flat) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 
-**Технология разработки программного обеспечения** — объясняю методологии разработки, паттерны проектирования и учу писать чистый код.
+My activities span a broad range of digital transformation, information systems development, and process automation initiatives. Key areas include:
 
-**Компьютерные сети** — разбираем сетевые протоколы, архитектуру сетей, вопросы безопасности и практическую настройку.
+- Designing FSM-based architectures for technical support chatbots, with Telegram and multi-platform support.
+- Building inter-system integrations between the Max and YouGile platforms, with event-driven synchronization and data exchange.
+- Developing DIY automation devices and embedded solutions using Arduino and microcontrollers.
+- Creating interactive diagrams, presentations, and visual materials for educational courses to improve student engagement.
+- Optimizing database performance, implementing CI/CD practices, and configuring Linux- and Docker-based infrastructure.
+- Developing and maintaining Moodle-based educational solutions, including theme customization, plugin development, and external service integrations.
+- Organizing and judging city-level student professional competitions, including «Proffesionals» (ex. «WorldSkills Russia») and the Abilimpics regional qualification rounds.
+- Developing competition tasks and evaluation criteria for web development and software testing tracks.
 
-**Базы данных** — учу проектировать структуры данных, писать SQL-запросы и оптимизировать работу с БД.
+## Contact
 
-**Web-разработка** — делюсь знаниями о современных технологиях и фреймворках, помогаю студентам создавать их первые проекты.
-
----
-
-## Чем занимаюсь сейчас
-
-Разрабатываю веб-приложения на Laravel и современных JavaScript-фреймворках, стараюсь держать руку на пульсе новых технологий. Готовлю учебные материалы для студентов и помогаю им с первыми шагами в карьере. Всегда открыт к интересным проектам и сотрудничеству.
-
----
-
-## Связь
-
-**Личный сайт:** [repiev.space](https://repiev.space)  
-**Страница преподавателя:** [nttek.ru/page/repev-egor-denisovic-143](https://nttek.ru/page/repev-egor-denisovic-143)  
-**Портфолио:** [career.nttek.ru/ega22a](https://career.nttek.ru/ega22a)
-
----
-
-## GitHub Статистика
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ega22a&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ega22a&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)
-
----
-
-<div align="center">
-
-*Всегда рад новым знакомствам и интересным идеям. Пишите!*
-
-</div>
+[![Personal Website](https://img.shields.io/badge/Website-repiev.space-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://repiev.space)
+[![Telegram](https://img.shields.io/badge/Telegram-@ega22a-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://ega22a.t.me)
+[![GitHub](https://img.shields.io/badge/GitHub-ega22a-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ega22a)
+[![College](https://img.shields.io/badge/NTTEK-Profile-0057B7?style=for-the-badge&logo=academia&logoColor=white)](https://nttek.ru/page/repev-egor-denisovic-143)
+[![Email](https://img.shields.io/badge/Email-repev.egor@nttek.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:repev.egor@nttek.ru)
